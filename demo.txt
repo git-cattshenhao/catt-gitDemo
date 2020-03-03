@@ -3,10 +3,10 @@ web
 add funi（）{}
 
 web add
-local addlocal add
+local add
 
 develop
 
 function1(){
 }
-
+
